@@ -31,5 +31,5 @@ text, mathematics, plots and rich media into a single document.
 [3]:http://www.gnu.org/software/bash/
 [4]:https://www.python.org
 [5]:http://ipython.org/notebook.html
-[6]:http://nbviewer.ipython.org/github/jiaweih/lab/blob/master/notebooks/timeseries_meeting_two_models.ipynb
-[7]:http://nbviewer.ipython.org/github/jiaweih/lab/blob/master/notebooks/qualityControl/Livneh%2014.ipynb
+[6]:http://nbviewer.ipython.org/github/jiaweih/labProject/blob/master/notebooks/timeseries_meeting_two_models.ipynb
+[7]:http://nbviewer.ipython.org/github/jiaweih/labProject/blob/master/notebooks/qualityControl/Livneh%2014.ipynb
