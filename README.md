@@ -1,4 +1,4 @@
-lab
+lab project
 ===
 This Git repository stores some scripts written for the project Integrated Scenarios of the Future Western U.S. Environment, 
 an effort to understand and predict the effects of climate change on the Western U.S.'s fish, wildlife, hydrology, and ecosystem 
